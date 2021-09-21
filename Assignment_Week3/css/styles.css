@@ -1,0 +1,51 @@
+#header-nav {
+	background-color: gray;
+	margin-bottom: 30px;
+	font-size: 300%;
+	color: solid black;
+}
+
+#menu-header{
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+h1, h2{
+	margin-bottom: 20px;
+}
+
+h2 {
+	text-align: center;
+	margin-top: 10px;
+}
+
+#section {
+	background-color: gray;
+}
+
+.container-fluid {
+	max-width: 95%;
+}
+
+a:visited, a:link, a:hover {
+	text-decoration: none;
+}
+ 
+#logo-header {
+	color: black;
+}
+
+.menu-icon {
+	  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+
+li {
+	text-align: center;
+}
+
+
+
+
